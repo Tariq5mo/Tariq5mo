@@ -49,6 +49,7 @@ I'm a Software Engineer who thrives on transforming complex problems into elegan
 - 💼 [LinkedIn](https://www.linkedin.com/in/tariqaltahiromer/)
 - 🐦 [Twitter](https://x.com/Tariq79252)
 
+P.S. Curious about the food delivery platform or my latest project? Let's connect and share war stories from the coding trenches!
 
 ## 💡 A Quote:
 
