@@ -20,7 +20,7 @@ I'm a Software Engineer who thrives on transforming complex problems into elegan
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tariq5mo&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Tariq5mo&theme=radical&hide_border=true&mode=weekly" />
 </p>
 
 ## About Me
