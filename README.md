@@ -4,11 +4,7 @@ I am a passionate back-end development student, driven by a curiosity for techno
 
 ## Tariq's GitHub Stats
 
-- **Total Stars Earned:** 2
-- **Total Commits (2024):** 526
-- **Total PRs:** 89
-- **Total Issues:** 12
-- **Contributed to (last year):** 21
+![Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tariq79252&show_icons=true&theme=radical)
 
 ## About Me
 
