@@ -5,20 +5,17 @@
 </div>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" alt="Coding Animation"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding Animation"/>
 </div>
 
 🔥 Coding isn't just a job—it's a puzzle I solve with passion.
 
 I'm a Software Engineer who thrives on transforming complex problems into elegant, scalable solutions. My journey into tech began with a spark of curiosity during my rigorous training at ALX Software Engineering (inspired by Holberton School), where late-night coding sessions and collaborative projects taught me the art of resilience and the thrill of seeing lines of code come to life.
 
-## GitHub Activity
-
-[![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Tariq5mo&theme=radical&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/Tariq5mo)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tariq5mo&theme=radical)](https://github.com/Tariq5mo)
-
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tariq5mo&layout=compact&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/Tariq5mo)
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Tariq5mo&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tariq5mo&theme=tokyonight" />
+</div>
 
 ## About Me
 
