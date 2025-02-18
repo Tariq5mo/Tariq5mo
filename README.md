@@ -14,14 +14,11 @@ I'm a Software Engineer who thrives on transforming complex problems into elegan
 
 ## Tariq's GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tariq5mo&show_icons=true&theme=radical" height="165" alt="Tariq's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tariq5mo&layout=compact&theme=radical" height="165" alt="Top Langs" />
-</div>
+[![Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tariq5mo&theme=radical&hide_border=true)](https://github.com/Tariq5mo)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tariq5mo&theme=radical" alt="GitHub Streak Stats" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tariq5mo&theme=radical&hide_border=true)](https://github.com/Tariq5mo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tariq5mo&layout=compact&theme=radical&hide_border=true)](https://github.com/Tariq5mo)
 
 ## About Me
 
@@ -44,8 +41,8 @@ I'm a Software Engineer who thrives on transforming complex problems into elegan
 ## My Tech Stack 🛠️
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,flask,redis,nodejs,express,mongodb,mysql,c,bash,discord,docker,linux" />
+  <a href="https://github.com/Tariq5mo">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,flask,redis,nodejs,express,mongodb,mysql,c,bash,discord,docker,linux&perline=7" />
   </a>
 </p>
 
