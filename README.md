@@ -1,5 +1,3 @@
-# Hi, I'm Tariq! 👋
-
 <div align="center">
   <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&height=100&lines=Hello+World%F0%9F%91%8B%2C+I'm+Tariq;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
@@ -37,7 +35,7 @@ I'm a Software Engineer who thrives on transforming complex problems into elegan
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,flask,redis,nodejs,express,mongodb,mysql,c,bash,discord,docker,linux,notion,obsidian" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,flask,redis,nodejs,express,mongodb,mysql,c,bash,discord,docker,linux" />
   </a>
 </p>
 
@@ -46,8 +44,6 @@ I'm a Software Engineer who thrives on transforming complex problems into elegan
 - 📧 Email: tariq79253@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/tariqaltahiromer/)
 - 🐦 [Twitter](https://x.com/Tariq79252)
-
-P.S. Curious about the food delivery platform or my latest project? Let's connect and share war stories from the coding trenches!
 
 ## 💡 A Quote:
 
