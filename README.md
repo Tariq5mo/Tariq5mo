@@ -4,7 +4,7 @@ I am a passionate back-end development student, driven by a curiosity for techno
 
 ## Tariq's GitHub Stats
 
-![Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tariq79252&show_icons=true&theme=radical)
+![Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tariq5mo&show_icons=true&theme=radical)
 
 ## About Me
 
