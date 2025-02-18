@@ -24,7 +24,7 @@ I'm a Software Engineer who thrives on transforming complex problems into elegan
 - Combining agile methodologies with a knack for breaking down problems into bite-sized wins
 
 ### Currently 🌱
-- Learning Full Stack Web Development
+- Creating Full Stack Web App
 - Exploring the ins and outs of React and Redux for dynamic front-end experiences
 - Building RESTful APIs with Node.js and Express
 - Diving into database management with MongoDB and SQL
@@ -49,4 +49,11 @@ I'm a Software Engineer who thrives on transforming complex problems into elegan
 - 💼 [LinkedIn](https://www.linkedin.com/in/tariqaltahiromer/)
 - 🐦 [Twitter](https://x.com/Tariq79252)
 
-P.S. Curious about the food delivery platform or my latest project? Let's connect and share war stories from the coding trenches!
+
+## 💡 A Quote:
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Documentation+is+a+love+letter+that+you+write+to+your+future+self." alt="Quote" />
+  <br>
+  <em>- Damian Conway</em>
+</div>
