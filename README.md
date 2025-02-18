@@ -12,13 +12,13 @@
 
 I'm a Software Engineer who thrives on transforming complex problems into elegant, scalable solutions. My journey into tech began with a spark of curiosity during my rigorous training at ALX Software Engineering (inspired by Holberton School), where late-night coding sessions and collaborative projects taught me the art of resilience and the thrill of seeing lines of code come to life.
 
-## Tariq's GitHub Stats
+## GitHub Activity
 
-[![Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tariq5mo&theme=radical&hide_border=true)](https://github.com/Tariq5mo)
+[![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Tariq5mo&theme=radical&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/Tariq5mo)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tariq5mo&theme=radical&hide_border=true)](https://github.com/Tariq5mo)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tariq5mo&theme=radical)](https://github.com/Tariq5mo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tariq5mo&layout=compact&theme=radical&hide_border=true)](https://github.com/Tariq5mo)
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tariq5mo&layout=compact&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/Tariq5mo)
 
 ## About Me
 
