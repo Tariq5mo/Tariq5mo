@@ -54,7 +54,7 @@ P.S. Curious about the food delivery platform or my latest project? Let's connec
 ## 💡 A Quote:
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=mentation+is+a+love+letter+that+you+write+to+your+future+self." alt="Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Simplicity+is+the+soul+of+efficiency+." alt="Quote" />
   <br>
-  <em>- Damian Conway</em>
+  <em>- Austin Freeman</em>
 </div>
