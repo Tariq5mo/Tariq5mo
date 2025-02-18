@@ -8,13 +8,9 @@
 
 I'm a Software Engineer who thrives on transforming complex problems into elegant, scalable solutions. My journey into tech began with a spark of curiosity during my rigorous training at ALX Software Engineering (inspired by Holberton School), where late-night coding sessions and collaborative projects taught me the art of resilience and the thrill of seeing lines of code come to life.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-url" alt="Hello World, I'm Tariq!" />
-</p>
-
 ## Tariq's GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tariq5mo&show_icons=true&theme=radical" alt="Tariq's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tariq5mo&layout=compact&theme=radical" alt="Top Langs" />
 </div>
