@@ -33,7 +33,7 @@ I'm a Software Engineer who thrives on transforming complex problems into elegan
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,flask,redis,nodejs,express,mongodb,mysql,c" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,flask,redis,nodejs,express,mongodb,mysql,c,bash,discord,docker,linux,notion,obsidian" />
   </a>
 </p>
 
