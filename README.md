@@ -20,7 +20,9 @@ I'm a Software Engineer who thrives on transforming complex problems into elegan
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tariq5mo&theme=radical&hide_border=true&mode=weekly" />
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Tariq5mo&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ## About Me
