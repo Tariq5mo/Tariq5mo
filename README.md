@@ -12,10 +12,16 @@
 
 I'm a Software Engineer who thrives on transforming complex problems into elegant, scalable solutions. My journey into tech began with a spark of curiosity during my rigorous training at ALX Software Engineering (inspired by Holberton School), where late-night coding sessions and collaborative projects taught me the art of resilience and the thrill of seeing lines of code come to life.
 
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Tariq5mo&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tariq5mo&theme=tokyonight" />
-</div>
+## GitHub Activity
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tariq5mo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tariq5mo&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tariq5mo&theme=radical&hide_border=true" />
+</p>
 
 ## About Me
 
