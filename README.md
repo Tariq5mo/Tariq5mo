@@ -4,6 +4,10 @@
   <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&height=100&lines=Hello+World%F0%9F%91%8B%2C+I'm+Tariq;Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/your-image-url" alt="Man with laptop" width="200" />
+</div>
+
 🔥 Coding isn't just a job—it's a puzzle I solve with passion.
 
 I'm a Software Engineer who thrives on transforming complex problems into elegant, scalable solutions. My journey into tech began with a spark of curiosity during my rigorous training at ALX Software Engineering (inspired by Holberton School), where late-night coding sessions and collaborative projects taught me the art of resilience and the thrill of seeing lines of code come to life.
