@@ -68,7 +68,7 @@ I'm a Software Engineer who thrives on transforming complex problems into elegan
 ## 💭 A Quote:
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&height=50&lines=Simplicity+is+the+soul+of+efficiency." alt="Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=50&lines=Simplicity+is+the+soul+of+efficiency." alt="Quote" />
   <br>
   <em>- Austin Freeman</em>
 </div>
