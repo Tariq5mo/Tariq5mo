@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-url" alt="Man with laptop" width="200" />
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif" alt="Coding Illustration" width="300"/>
 </div>
 
 🔥 Coding isn't just a job—it's a puzzle I solve with passion.
