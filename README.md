@@ -19,12 +19,6 @@ I'm a Software Engineer who thrives on transforming complex problems into elegan
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tariq5mo&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Tariq5mo&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
 ## About Me
 
 ### What Drives Me 🚀
@@ -53,9 +47,17 @@ I'm a Software Engineer who thrives on transforming complex problems into elegan
 
 ## Let's Connect! 🤝
 
-- 📧 Email: tariq79253@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/tariqaltahiromer/)
-- 🐦 [Twitter](https://x.com/Tariq79252)
+<div align="center">
+  <a href="mailto:tariq79253@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/tariqaltahiromer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Tariq79252">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
 
 ## 💡 A Quote:
 
