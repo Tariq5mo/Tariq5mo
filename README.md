@@ -25,6 +25,14 @@ I'm a Software Engineer who thrives on transforming complex problems into elegan
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tariq5mo&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Tariq5mo&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  </a>
+</p>
+
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> About Me
 
 ### What Drives Me 🚀
