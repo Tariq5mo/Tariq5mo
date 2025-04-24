@@ -1,7 +1,7 @@
 # Hi, I'm Tariq! 👋
 
 <div align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&height=100&lines=Hello+World%F0%9F%91%8B%2C+I'm+Tariq;Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&height=100&lines=Hello+World%F0%9F%91%8B%2C+I'm+Tariq;Software+Engineer+%F0%9F%92%BB;AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tariq5mo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Tariq5mo&label=Profile%20views&color=0e75b6&style=flat&count=233" alt="Profile views" />
 </div>
 
 <br/>
