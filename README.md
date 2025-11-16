@@ -1,7 +1,8 @@
 # Hi, I'm Tariq Omer! 👋
 
 <div align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&height=100&lines=Hello+World+%F0%9F%91%8B+I'm+Tariq;Backend+Engineer+%F0%9F%9A%80;Building+Scalable+APIs+%26+Pipelines;Mission-Driven+%7C+Remote-Ready+%F0%9F%8C;Always+Shipping+%26+Learning+%F0%9F%93%A6" alt="Typing SVG" />
+  <!-- Shorter, fixed typing SVG with correct emoji encoding and smaller font to avoid long sentence break -->
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&random=false&width=780&height=80&lines=Hello+World+%F0%9F%91%8B%2C+I%27m+Tariq+Omer;Backend+Engineer+%F0%9F%9A%80;Building+scalable+APIs+%26+pipelines;Mission-driven+%7C+Remote-ready+%F0%9F%8C%8D;Always+shipping+%26+learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,6 +16,8 @@
 </div>
 
 <br/>
+
+<a id="what-i-do"></a>
 
 ## 🎯 What I Do
 
@@ -36,7 +39,33 @@
 
 </div>
 
+<div align="center">
+
+
+</div>
+
+### 🧭 How I can help
+
+- Architect scalable backends, data models, and API gateways
+- Ship AI-ready features (prompt pipelines, embeddings, model integration)
+- Set up CI/CD, Dockerized deployments, and observability for smooth releases
+- Coach teams on TDD, code reviews, and DevSecOps basics
+- Lead missions end-to-end: discovery → delivery → mentoring
+
+### 📚 Table of Contents
+
+1. [What I Do](#what-i-do)
+2. [GitHub Activity](#github-activity)
+3. [GitHub Trophies](#github-trophies)
+4. [About Me](#about-me)
+5. [My Tech Stack](#my-tech-stack)
+6. [Featured Projects](#featured-projects)
+7. [Let's Connect](#lets-connect)
+8. [Quote to Live By](#quote-to-live-by)
+
 ---
+
+<a id="github-activity"></a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Activity
 
@@ -46,6 +75,8 @@
 </p>
 
 ---
+
+<a id="github-trophies"></a>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> GitHub Trophies
 
@@ -57,15 +88,17 @@
 
 ---
 
+<a id="about-me"></a>
+
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> About Me
 
-### 🚀 What Drives Me
+### What Drives Me <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="rocket launching" width="35"/>
 
 **Growth • Impact • Autonomy** — these are my core values.
 
 I'm passionate about **continuous learning**, creating **meaningful, user-focused work**, and taking **ownership & leadership** in what I build. I thrive in environments where I can be a hands-on builder with strategic insight — whether that's backend-focused work, full-stack challenges, or collaborative-but-autonomous startup-paced projects.
 
-### 💼 Professional Journey
+### Professional Journey <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding professional" width="35"/>
 
 **Top Motivators**: Learning & curiosity • Creating impact • Proving skill through results • Leadership & mentoring • Tangible progress
 
@@ -77,14 +110,14 @@ I'm passionate about **continuous learning**, creating **meaningful, user-focuse
 - 📚 Completed ALX/Holberton **Software Engineering** program — immersive, project-based training in Node.js, NestJS, Python, DBs, CI/CD
 - 🤖 Earned **AI Starter Kit** certification (Mar 2025) — 20 micro-projects in generative AI, prompt engineering, model API integration
 
-### 🎓 Education & Certifications
+### Education & Certifications <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" alt="graduation cap" width="35"/>
 
 - **ALX / Holberton** — Software Engineer (Issued Feb 2025)
 - **ALX / Holberton** — AI Starter Kit (Issued Mar 2025)
 - **Mechatronics Engineering Inventors (MEI)** — Certified Innovation Leader (CIL)
 - **Bachelor of Engineering (BE)** — Electrical & Electronics Engineering, Sudan University of Science & Technology (2019-2025)
 
-### 🌱 Current Focus & Goals
+### Current Focus & Goals <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="target animation" width="35"/>
 
 **Short Term**:
 
@@ -102,13 +135,15 @@ I'm passionate about **continuous learning**, creating **meaningful, user-focuse
 - 👥 Become team lead or founder
 - 📢 Mentor others publicly and give back to the community
 
-### 🤝 Volunteering & Leadership
+### Volunteering & Leadership <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="handshake animation" width="35"/>
 
 - **MEI — Volunteer Project Manager** (Jan 2022 – Present): Leading student teams, planning, mentoring, documentation, exhibitions
 - **MEI — Project & Exhibition Team**: Built hand-controller prototype, organized Light Up Day exhibition
 - **MEI — Educator**: Conducted workshops & demos for World Engineering Day
 
 ---
+
+<a id="my-tech-stack"></a>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> My Tech Stack
 
@@ -142,6 +177,8 @@ I'm passionate about **continuous learning**, creating **meaningful, user-focuse
 
 ---
 
+<a id="featured-projects"></a>
+
 ## 🚀 Featured Projects
 
 ### 🎯 [Reemo](https://github.com/Tariq5mo/reemo)
@@ -169,6 +206,8 @@ I'm passionate about **continuous learning**, creating **meaningful, user-focuse
 **Tech**: Node.js, Express, MongoDB, REST API, Team Leadership
 
 ---
+
+<a id="lets-connect"></a>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
 
@@ -200,7 +239,9 @@ I'm passionate about **continuous learning**, creating **meaningful, user-focuse
 
 ---
 
-## 💭 A Quoteo Live By
+<a id="quote-to-live-by"></a>
+
+## 💭 Quote to Live By
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=50&lines=Simplicity+is+the+soul+of+efficiency." alt="Quote" />
